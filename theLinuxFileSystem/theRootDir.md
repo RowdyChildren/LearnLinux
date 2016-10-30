@@ -13,3 +13,4 @@ Directory | contents
 /etc      | configuration files
 /usr      | user executables
 /home     | home directories of users
+/naps     | Where processes take naps
